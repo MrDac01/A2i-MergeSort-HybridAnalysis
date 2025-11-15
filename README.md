@@ -1,5 +1,4 @@
 Садиков Амир БПИ244
-#АиСД #Set
 
 ID Задачи: [349073969](https://dsahse25.contest.codeforces.com/group/SLdI1pWUpC/contest/647790/submission/349073969 "Исходный код")
 
@@ -107,9 +106,9 @@ public:
 
 Посмотрим графики
 
-[график 1](almost_sorted_array.png)
-[график 2](random_array.png)
-[график 3](reverse_array.png)
+![график 1](almost_sorted_array.png)
+![график 2](random_array.png)
+![график 3](reverse_array.png)
 
 
 Наблюдения
